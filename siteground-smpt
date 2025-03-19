@@ -1,0 +1,7 @@
+// Specify SiteGround SMTP server details
+        // $mail->Host       = 'mail.webowls.dev';
+        // $mail->SMTPAuth   = true;
+        // $mail->Username   = 'rcruiters@webowls.dev';
+        // $mail->Password   = 'RCRUITERS@2023';
+        // $mail->SMTPSecure = 'ssl';
+        // $mail->Port       = 465;
